@@ -1,4 +1,4 @@
 # ecommerce
 full-stack-ecommerce
 
-to use this run npm i command
+complete mern stack ecommerce project 2023 complete code
